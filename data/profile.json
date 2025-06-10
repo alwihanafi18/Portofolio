@@ -1,0 +1,37 @@
+{
+    "name": "Muhammad Alwi Hanafi - Lecturer Computer and Electronic Engineering",
+    "description": "Motivated and enthusiastic Electronics Engineering Diploma student with a strong interest in learning, teaching, and sharing technical knowledge. Actively building a solid foundation in electronics and computer engineering principles through both academic coursework and hands-on projects. Passionate about applying theoretical concepts to real-world situations and eager to contribute to collaborative learning environments. Skilled in simplifying complex topics and explaining them clearly to peers, fostering mutual growth and understanding. Continuously exploring new trends and technologies in the field to stay current and expand expertise. Aspiring to use my knowledge and enthusiasm to support and inspire fellow students while growing into a future engineering professional.",
+    "profileImage": "images/akuuuu.jpg",
+    "email": "alwihanafi998@gmail.com",
+    "phone": "+62 (813) 936-35399",
+    "socialMedia": [
+        {
+            "platform": "Facebook",
+            "url": "https://www.facebook.com/al.wi.94402"
+        },
+        {
+            "platform": "Instagram",
+            "url": "https://www.instagram.com/aalhnaf__?igsh=MWF0eXdyc3YzdjY5Nw=="
+        },
+        {
+            "platform": "Twitter",
+            "url": "https://x.com/AlwiHanafi11?t=dUL45yHnmdUtR2riifN9yw&s=09"
+        }
+    ],
+    "cv": {
+			"text": "Download CV",
+			"file": "docs/CV M Alwi Hanafi.pdf",
+			"icon": "fas fa-file-pdf"
+	},
+    "skills": [
+        {"name": "Biomedical Engineering", "icon": "fas fa-heart-pulse", "level": 20},
+        {"name": "Front-end IC Design", "icon": "fas fa-microchip", "level": 20},
+        {"name": "Internet of Things", "icon": "fas fa-wifi", "level": 20},
+        {"name": "Hardware Design", "icon": "fas fa-desktop", "level": 20},
+	{"name": "Hardware Programming", "icon": "fas fa-c", "level": 20},
+        {"name": "Web Programming", "icon": "fab fa-js", "level": 20},
+	{"name": "Project Management", "icon": "fas fa-list-check", "level": 20},
+	{"name": "Academic Writing", "icon": "fas fa-pen", "level": 20},
+	{"name": "Foreign Languages", "icon": "fas fa-language", "level": 20}
+    ]
+}

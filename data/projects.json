@@ -1,0 +1,30 @@
+[
+    {
+        "title": "Health Clothes For The Elderly",
+        "year": "2023",
+        "fund": "-",
+        "partner": "Mamun Faizun Idan, Amir Noor W, Ridho Faikal, Sindy Paramitha R",
+        "role": "Programing",
+        "description": "A wearable health shirt designed for elderly users, equipped with temperature and motion sensors. It monitors body temperature and activity in real-time, sending data to a monitoring system for caregivers. The project aims to improve elderly safety, support early health detection, and enhance overall care through smart technology.",
+        "image": "images/baju sehat.jpg",
+        "link": "-"
+    },
+    {
+        "title": "Prototype Doorbell Camera With Telegram Notification using Esp 32 Cam",
+        "year": "2023",
+        "partner": "Riski Aditiya Azis",
+        "role": "Project Lead",
+        "description": "A smart doorbell prototype using the ESP32-CAM module, equipped with a camera to capture images when the doorbell is pressed. The system sends real-time notifications and images to Telegram, allowing users to monitor visitors remotely. This project combines IoT and messaging integration for improved home security.",
+        "image": "images/bel pintu.png",
+        "link": "-"
+    },
+	{
+        "title": "Design and Construction of an IoT-based automatic shoe dryer for shoe care",
+        "year": "2025 - Present",
+        "partner": "Dwi Agustianto",
+        "role": "Project Lead",
+        "description": "A smart shoe dryer system designed using IoT technology to automate the drying process for shoe care. The system controls temperature and drying time remotely, ensuring efficient drying while maintaining shoe quality.",
+        "image": "images/ta.png",
+        "link": "-"
+    }
+]
