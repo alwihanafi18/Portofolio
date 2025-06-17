@@ -18,6 +18,15 @@
         "image": "images/bel pintu.png",
         "link": "-"
     },
+    {
+        "title": "Electrical Wiring Diagram E-Moto NX Series",
+        "year": "2024",
+        "partner": "Dwi Agustianto",
+        "role": "Project Lead",
+        "description": "The electrical wiring diagram of the NX Series E-Moto illustrates the complete layout of the vehicle’s electrical system, including connections between the battery, motor controller, throttle, brake sensors, lighting system, and dashboard. This diagram serves as a crucial reference for diagnostics, repairs, and modifications, ensuring efficient power distribution and safe operation of the electric motorcycle",
+        "image": "images/viarrr.png",
+        "link": "-"
+    },
 	{
         "title": "Design and Construction of an IoT-based automatic shoe dryer for shoe care",
         "year": "2025 - Present",
